@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08108c4fe82e1f2ca27563491894b042",
+    "revision": "412a54516b343f0c4b2a2eed42e7c983",
     "url": "/ITN_Bootcamp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ITN_Bootcamp/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "25145156ee1e96bbd377",
-    "url": "/ITN_Bootcamp/static/css/main.ea94b00a.chunk.css"
+    "revision": "83dc5219f056d6b87b58",
+    "url": "/ITN_Bootcamp/static/css/main.ae047d07.chunk.css"
   },
   {
     "revision": "f8c9f7927f73d3b3d2bd",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ITN_Bootcamp/static/js/2.a1a9dc96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25145156ee1e96bbd377",
-    "url": "/ITN_Bootcamp/static/js/main.ee510d5d.chunk.js"
+    "revision": "83dc5219f056d6b87b58",
+    "url": "/ITN_Bootcamp/static/js/main.27c8bacc.chunk.js"
   },
   {
     "revision": "80c04dfed03e3f653ac0",
