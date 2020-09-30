@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "318188b9e7307c320b91895792dcc672",
+    "revision": "08108c4fe82e1f2ca27563491894b042",
     "url": "/ITN_Bootcamp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ITN_Bootcamp/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "7d5a0d85c92194d58f09",
+    "revision": "25145156ee1e96bbd377",
     "url": "/ITN_Bootcamp/static/css/main.ea94b00a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ITN_Bootcamp/static/js/2.a1a9dc96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d5a0d85c92194d58f09",
-    "url": "/ITN_Bootcamp/static/js/main.463847a7.chunk.js"
+    "revision": "25145156ee1e96bbd377",
+    "url": "/ITN_Bootcamp/static/js/main.ee510d5d.chunk.js"
   },
   {
     "revision": "80c04dfed03e3f653ac0",
